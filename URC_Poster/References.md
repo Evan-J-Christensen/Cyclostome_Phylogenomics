@@ -16,37 +16,9 @@
 15. Spalding, M. D. _et al._ Marine Ecoregions of the World: A Bioregionalization of Coastal and Shelf Areas. _BioScience_ __57__, 573–583 (2007).
 16. Matzke, N. J. Model Selection in Historical Biogeography Reveals that Founder-Event Speciation Is a Crucial Process in Island Clades. _Syst. Biol._ __63__, 951–970 (2014).
 17. Miyashita, T. _et al._ Hagfish from the Cretaceous Tethys Sea and a reconciliation of the morphological–molecular conflict in early vertebrate phylogeny. _PNAS_ __116__, 2146–2151 (2019).
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
-  
-
-  
-
-  
-
-
-
-  
-
 # Supplemental/Software References
+i.  Benson, D. A. _et al._ GenBank. _Nucleic Acids Res._ __41__, D36–D42 (2013).\
+ii.  Grabherr, M. G. _et al._ Full-length transcriptome assembly from RNA-Seq data without a reference genome. _Nat. Biotechnol._ __29__, 644–652 (2011).\
+iii.  Li, D., Liu, C.-M., Luo, R., Sadakane, K. & Lam, T.-W. MEGAHIT: an ultra-fast single-node solution for large and complex metagenomics assembly via succinct _de Bruijn_ graph. _Bioinformatics_ __31__, 1674–1676 (2015).\
+iv.  Prjibelski, A., Antipov, D., Meleshko, D., Lapidus, A. & Korobeynikov, A. Using SPAdes De Novo Assembler. _Curr. Protoc. Bioinformatics_ __70__, e102 (2020).\
+v.  Altschul, S. F., Gish, W., Miller, W., Myers, E. W. & Lipman, D. J. Basic local alignment search tool. _J. Mol. Biol._ __215__, 403–410 (1990).
